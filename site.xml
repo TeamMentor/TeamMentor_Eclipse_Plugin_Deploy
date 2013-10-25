@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/TeamMentor.Feature_1.3.1.201310221621.jar" id="TeamMentor.Feature" version="1.3.1.201310221621">
+   <feature url="features/TeamMentor.Feature_1.3.2.qualifier.jar" id="TeamMentor.Feature" version="1.3.2.qualifier">
       <category name="Security Innovation"/>
    </feature>
    <category-def name="Security Innovation" label="Security Innovation"/>
