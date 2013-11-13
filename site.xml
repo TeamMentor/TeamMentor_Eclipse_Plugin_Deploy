@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <feature url="features/TeamMentor.Feature_1.3.4.qualifier.jar" id="TeamMentor.Feature" version="1.3.4.qualifier">
-      <category name="Security Innovation"/>
+      <category name="TeamMentor Eclipse (previous releases)"/>
    </feature>
    <feature url="features/TeamMentor.Feature_1.3.5.201310292343.jar" id="TeamMentor.Feature" version="1.3.5.201310292343">
-      <category name="Security Innovation"/>
+      <category name="TeamMentor Eclipse (previous releases)"/>
    </feature>
-   <category-def name="Security Innovation" label="Security Innovation"/>
+   <feature url="features/TeamMentor.Feature_1.5.4.201311131411.jar" id="TeamMentor.Feature" version="1.5.4.201311131411">
+      <category name="TeamMentor Eclipse (latest)"/>
+   </feature>
+   <category-def name="TeamMentor Eclipse (previous releases)" label="TeamMentor Eclipse (previous releases)"/>
+   <category-def name="TeamMentor Eclipse (latest)" label="TeamMentor Eclipse (latest)"/>
 </site>
