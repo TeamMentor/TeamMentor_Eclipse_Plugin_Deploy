@@ -15,7 +15,7 @@
    <feature url="features/TeamMentor.Feature_1.6.0.201401240753.jar" id="TeamMentor.Feature" version="1.6.0.201401240753">
       <category name="TeamMentor Eclipse (latest)"/>
    </feature>
-   <feature url="features/TeamMentor.Feature_1.6.1.201402181216.jar" id="TeamMentor.Feature" version="1.6.1.201402181216">
+   <feature url="features/TeamMentor.Feature_1.6.1.201402261720.jar" id="TeamMentor.Feature" version="1.6.1.201402261720">
       <category name="TeamMentor Eclipse (latest)"/>
    </feature>
    <category-def name="TeamMentor Eclipse (previous releases)" label="TeamMentor Eclipse (previous releases)"/>
